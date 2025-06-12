@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@adityam52961774" target="blank"><img src="https://img.shields.io/twitter/follow/@adityam52961774?logo=twitter&style=for-the-badge" alt="@adityam52961774" /></a> </p>
 
-- 🔭 I’m currently working on **Smart India Hackathon**
+- 🔭 I’m currently working in **Atidan Technologies** as a Junior SDE
 
 - 🌱 I’m currently learning **ReactJs,Typescript**
 
