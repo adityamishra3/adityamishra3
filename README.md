@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mishraadditya@gmail.com**
 
-- ⚡ Fun fact **I am trying to do Standup Comdey**
+- ⚡ Fun fact **I am trying to do Standup Comedy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
