@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Mishra</h1>
 <h3 align="center">AI Systems Builder | Backend Engineer | Agentic Workflows Architect</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="center">
+  <img alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=adityamishra3&label=Profile%20views&color=0e75b6&style=flat" alt="adityamishra3" />
@@ -119,9 +121,6 @@
 
 ## 📊 GitHub Stats
 
-<p>
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=adityamishra3&show_icons=true&locale=en" />
-</p>
 
 <p>
 <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=adityamishra3&" />
